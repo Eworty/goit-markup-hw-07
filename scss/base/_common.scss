@@ -1,0 +1,18 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--primary-background-color);
+  color: var(--primary-text-color);
+}
+
+.section {
+  padding: 94px 0;
+}
+
+.title {
+  margin-bottom: 50px;
+
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
